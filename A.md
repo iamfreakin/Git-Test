@@ -1,3 +1,3 @@
 # Hello World
 
-edit by feature/merge fuck you
+edit by feature/merge
