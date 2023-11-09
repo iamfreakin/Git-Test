@@ -1,6 +1,3 @@
 # Hello World
 
-- asdfasdfasdf
-- asdfasdf
-- asdfasdf
-- ooooooo
+edit by feature/merge
